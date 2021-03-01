@@ -2,7 +2,7 @@
   "name": "supergulp",
   "version": "1.0.0",
   "description": "Learn Gulp by building an awesome developmment envirionment",
-  "repository": "https://github.com/BradJung233/supergulp",
+  "repository": "https://github.com/BradJung233/supergulp.git",
   "author": "brad",
   "license": "MIT",
   "scripts": {
